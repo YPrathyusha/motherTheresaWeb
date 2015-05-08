@@ -1,0 +1,40 @@
+body{
+     background-image:url("teresa2.jpg");
+	 background-repeat:repeat;
+	 }
+div{
+   background-color:silver;
+   width:300px;
+   padding:50px;
+   border:25px solid darkgray;
+   margin:0;
+   box-shadow:10px 10px 5px #888888;
+  }                               
+ul {
+    float: left;
+    width: 100%;
+    padding:0;
+    margin:0;
+    list-style-type: none;
+	
+}
+
+a {
+    float: left;
+    width: 5.75em;
+    text-decoration: none;
+    color:black;
+    background-color: darkgray;
+    padding: 0.2em 0.6em;
+    border-right: 1px solid white;
+	border-radius:8px;
+}
+
+a:hover {
+    background-color:lightgray;
+}
+
+li {
+    display: inline;
+}
+
